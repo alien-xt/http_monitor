@@ -1,0 +1,24 @@
+{
+    "urls": [
+        {
+            "url": "https://github.com/alienxt/",
+            "interval": 10,
+            "timeout": 20,
+            "title": "Github site downtime"
+        },
+        {
+            "url": "https://yoursite",
+            "interval": 10,
+            "timeout": 20,
+            "title": "Your site downtime"
+        }
+    ],
+    "emailSender": {
+        "smtpServer": "Your smtp server",
+        "userName": "Your userName",
+        "passWord": "Your passWord"
+    },
+    "receivers": [
+        "youremail@xxx.com"
+    ]
+}
